@@ -1,3 +1,10 @@
+# Health Insurance Premium Prediction
+
+🔗 **Live App:** https://health-insurance-premium-prediction-by-arifbhatti.streamlit.app/
+
+---
+
+
 ## Project Overview
 
 This project focuses on predicting an individual's annual health insurance premium using machine learning. The model uses demographic, financial, lifestyle, and health-related factors to estimate the premium for a customer.
