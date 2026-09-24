@@ -1,6 +1,7 @@
 # Health Insurance Premium Prediction
 
-🔗 **Live App:** https://health-insurance-premium-prediction-by-arifbhatti.streamlit.app/
+🔗 **Live App:** 
+https://health-insurance-premium-prediction-by-arifbhatti.streamlit.app/
 
 ---
 
