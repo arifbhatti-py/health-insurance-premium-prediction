@@ -218,3 +218,16 @@ The application provides a simple interface where users can enter their details 
 - Streamlit
 - Joblib
 - Git & GitHub
+
+
+---
+
+
+## Author
+
+**Muhammad Arif Bhatti**
+
+This project was developed as part of my Data Science learning journey.
+
+- GitHub: https://github.com/arifbhatti-py
+- LinkedIn: https://linkedin.com/in/arifbhatti
