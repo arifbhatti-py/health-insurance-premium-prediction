@@ -71,7 +71,7 @@ Inconsistent values in `smoking_status` were also cleaned to ensure that the cat
 
 The numerical feature distributions revealed the overall spread of customer characteristics and helped identify skewed variables and unusual observations that required attention during data cleaning.
 
-![Distribution of Numerical Features](images/numerical_feature_distributions.png)
+![Distribution of Numerical Features](images/distribution_of_numeric_features.png)
 
 The relationship between **age, income, number of dependants, and annual premium** was then examined to understand how changes in these customer characteristics were associated with premium amounts.
 
